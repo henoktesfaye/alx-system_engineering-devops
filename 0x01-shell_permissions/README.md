@@ -1,1 +1,1 @@
-Watch movie
+multiple permissons
