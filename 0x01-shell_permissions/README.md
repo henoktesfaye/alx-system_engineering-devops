@@ -1,1 +1,1 @@
-owning
+schoo
