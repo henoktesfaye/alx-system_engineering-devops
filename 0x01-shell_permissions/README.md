@@ -1,1 +1,1 @@
-directotrie
+make directory
